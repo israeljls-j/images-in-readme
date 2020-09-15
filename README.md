@@ -1,3 +1,5 @@
 # images-in-readme
-Images
-![](https://github.com/israeljls-j/images-in-readme/blob/master/1stqq.png?raw=true)
+
+![](images/1stqq.png)
+
+![](images/qq22.png)
